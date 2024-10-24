@@ -86,8 +86,3 @@ for (let i = 0; i < accordionBtn.length; i++) {
   });
 
 }
-
-// Visit Us ---------------
-// https://bytewebster.com/
-// https://bytewebster.com/
-// https://bytewebster.com/
